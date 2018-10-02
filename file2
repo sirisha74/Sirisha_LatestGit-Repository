@@ -1,0 +1,11 @@
+Hi Sirisha,
+
+I am doing changes as part of git testing pull command.
+This changes shoiuld reflect directly in my git local repo.
+
+command to acheive this is
+
+git pull \
+
+thanks,
+git team.
